@@ -1,2 +1,2 @@
 # ИГОРЬ FUCKING SLAVE
-![BILLY](/../main/billy.jpg)
+![BILLY](/billy.jpg)
