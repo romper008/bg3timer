@@ -3,6 +3,6 @@
   <img src="https://github.com/romper008/bg3timer/blob/main/van.jpg?raw=true" />
 </p>
 <h1 align='center'> До выхода Baldur's Gate 3: </h1>
-<script src="//megatimer.ru/get/09c2d01e50ad75b903080fe9b44ef416.js"></script>
+<script src="//megatimer.ru/get/314a4309be1e8949843b53b059f94dc8.js"></script>
 <audio ref='themeSong' src="https://github.com/romper008/bg3timer/blob/main/bg3.mp3?raw=true" autoPlay loop></audio>
 
