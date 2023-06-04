@@ -6,10 +6,9 @@
 <script src="//megatimer.ru/get/5468ba46a5cab785debfba427e087ac5.js"></script>
 
 
-<input type="range" id="volume-control">
-let audio = new Audio("https://github.com/romper008/bg3timer/blob/main/bg3.mp3?raw=true");
-let volume = document.querySelector("#volume-control");
-volume.addEventListener("change", function(e) {
-audio.volume = e.currentTarget.value / 100;
-})
+<div>
+  <input type="range" id="volume" name="volume"
+         min="0" max="11">
+  <label for="volume">Volume</label>
+</div>
 
