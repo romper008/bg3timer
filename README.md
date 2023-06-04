@@ -6,9 +6,4 @@
 <script src="//megatimer.ru/get/5468ba46a5cab785debfba427e087ac5.js"></script>
 
 
-<div>
-  <input type="range" id="volume" name="volume"
-         min="0" max="11">
-  <label for="volume">Volume</label>
-</div>
-
+<input type="range" id="volume-slider">
